@@ -115,6 +115,7 @@ body {
   } */
   .inside p {
     color: rgb(14, 68, 68);
+    margin-top: auto;
     font-size: 23px;
     line-height: 30px;
   }
